@@ -13,10 +13,10 @@ I joined office hours for the support needed for this challenge assignment.
 ## Submission Includes
 This submimssion includes:
 
-Main Pandas codes:
+#### Main Pandas codes:
 * PyCitySchools_LJordan
-Resources folder:
+#### Resources folder:
 * schools_complete.csv
 * students_complete.csv
-Analysis folder:
+#### Analysis folder:
 * Written Report for PyCitySchools Analysis
